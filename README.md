@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rvgrafael
 - 👀 I’m interested in cybersecurity and data science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I want to collaborate to acquire experience and knowledge and in the future to enter the IT career
 
 
